@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #!UlexXSS
-#!Cross-Site ulex
+#!Cross-Site-Xss
 #!Author: godeyes/wongNdeso
 #!Site: https://wongNdeso.com
 
